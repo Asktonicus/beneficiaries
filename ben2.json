@@ -1,0 +1,38 @@
+[
+ {
+   "clientFiscalId": "96556930-8",
+   "service": 2,
+   "pan": "6060730041611753",
+   "fiscalId": "10001895-0"
+ },
+ {
+   "clientFiscalId": "96556930-8",
+   "service": 2,
+   "pan": "6060730041611787",
+   "fiscalId": "10001451-3"
+ },
+ {
+   "clientFiscalId": "96556930-8",
+   "service": 2,
+   "pan": "6060730041611811",
+   "fiscalId": "10000797-5"
+ },
+ {
+   "clientFiscalId": "96556930-8",
+   "service": 2,
+   "pan": "6060730041611845",
+   "fiscalId": "10000585-9"
+ },
+ {
+   "clientFiscalId": "96556930-8",
+   "service": 2,
+   "pan": "6060730041611878",
+   "fiscalId": "10000379-1"
+ },
+ {
+   "clientFiscalId": "96556930-8",
+   "service": 2,
+   "pan": "6060730041611902",
+   "fiscalId": "10001305-3"
+ }
+]
